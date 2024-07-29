@@ -1,0 +1,1 @@
+# 0g_storage_node_guide
